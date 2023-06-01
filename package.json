@@ -1,0 +1,15 @@
+{
+    "name": "ai-for-personal-development-techniques-and-strategies-for-continued-growth-with-artificial-intelligence",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
