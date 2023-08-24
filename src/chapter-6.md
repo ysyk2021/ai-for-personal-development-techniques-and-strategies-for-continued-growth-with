@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Habit Formation and Tracking with AI
-============================================================
 
 Habit formation is a key aspect of personal development and growth. However, it can be challenging to develop new habits and track progress towards established goals. In this chapter, we will explore how artificial intelligence (AI) can be used to streamline habit formation and tracking.
 
