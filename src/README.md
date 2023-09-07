@@ -10,3 +10,7 @@ The following chapters will cover a range of topics related to AI for personal d
 Whether you are a student, professional, or simply someone interested in personal growth and development, "AI for Personal Development" provides valuable insights and practical strategies for leveraging AI to enhance your personal development. By the end of this book, you will have a deep understanding of the role of AI in personal development and how it can be used to drive continued growth and success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
