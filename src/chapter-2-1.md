@@ -1,5 +1,4 @@
-Chapter 4: Overview of Available Tools and Technologies
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various tools and technologies available for personal development with artificial intelligence (AI). These tools empower individuals to leverage AI capabilities and enhance their growth journey effectively.
 

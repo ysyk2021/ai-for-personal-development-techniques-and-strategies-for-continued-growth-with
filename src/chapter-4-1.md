@@ -1,5 +1,4 @@
-Chapter 6: AI-Powered Learning Assistance and Retention Techniques
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ways in which AI can assist individuals in their learning journey and enhance retention of acquired knowledge. By leveraging AI-powered learning assistance and retention techniques, individuals can optimize their learning experiences and achieve continuous growth.
 

@@ -1,5 +1,4 @@
-Chapter 10: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will focus on the importance of mitigating risks and ensuring compliance when utilizing artificial intelligence (AI) for personal development. As AI technologies become integrated into personal growth strategies, it is crucial to address potential risks and adhere to relevant regulations and guidelines.
 

@@ -1,5 +1,4 @@
-Chapter 5: Automated Goal-Setting and Progress Monitoring Using AI
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the powerful potential of AI in automating goal-setting and progress monitoring for personal development. By leveraging AI technologies, individuals can enhance their self-improvement journey, track their progress, and achieve their goals more efficiently.
 
